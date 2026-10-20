@@ -1,0 +1,31 @@
+Associate Software Engineer — Job Description
+
+About the role
+We are hiring Associate Software Engineers to join our product engineering
+team. You will design, build and maintain web applications and services
+used by customers across the globe, working with senior engineers in an
+Agile team.
+
+Responsibilities
+- Develop backend services and REST APIs in Python or Java.
+- Build responsive front-end features with HTML, CSS, JavaScript and React.
+- Write efficient SQL queries and design schemas for MySQL and PostgreSQL.
+- Containerise applications with Docker and deploy them to AWS.
+- Write unit tests, take part in code reviews and follow CI/CD practices.
+- Debug production issues on Linux servers and improve performance.
+
+Required skills
+- Strong grasp of Data Structures and Algorithms.
+- Proficiency in Python or Java, and working knowledge of SQL.
+- Familiarity with Git and collaborative development workflows.
+- Understanding of Object-Oriented Programming and DBMS concepts.
+- Good communication skills and a willingness to learn quickly.
+
+Good to have
+- Experience with MongoDB or Redis.
+- Exposure to Machine Learning or data analysis with Pandas.
+- Personal projects deployed on GitHub.
+
+Qualifications
+- B.Tech / B.E. in Computer Science or a related field.
+- 0–2 years of experience; freshers with strong projects are welcome.

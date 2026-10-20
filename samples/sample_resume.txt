@@ -1,0 +1,50 @@
+Bishal Rajdev Barik
+Bhubaneswar, Odisha, India
+Email: bishal.rajdev@example.com
+Phone: +91 98765 43210
+GitHub: github.com/Vishal-361
+
+SUMMARY
+Final-year B.Tech Computer Science student who enjoys building practical
+software with Python and the web stack. Interested in backend development,
+data-driven applications and applied machine learning. Looking for an
+Associate Software Engineer role where I can ship real features and keep
+learning from experienced engineers.
+
+EDUCATION
+B.Tech, Computer Science and Engineering
+C.V. Raman Global University, Bhubaneswar — 2023 to 2027 (expected)
+
+SKILLS
+Languages: Python, Java, C++, SQL, HTML, CSS, JavaScript
+Frameworks & Libraries: Streamlit, Pandas, NumPy, scikit-learn
+Databases: MySQL, SQLite
+Tools: Git, GitHub, VS Code, Postman
+Concepts: Data Structures, Algorithms, Object-Oriented Programming,
+DBMS, Operating Systems, Computer Networks, Machine Learning,
+Natural Language Processing, REST APIs
+
+PROJECT EXPERIENCE
+
+AI Resume Analyzer (Python, Streamlit, scikit-learn)
+- Built an NLP-based tool that compares resumes against job descriptions
+  and surfaces actionable skill-match insights.
+- Implemented TF-IDF and cosine similarity to score resume-JD match, and
+  a skills database to report matched and missing skills.
+- Designed an interactive Streamlit interface for a smooth recruiter and
+  applicant experience.
+
+AcxiomCRM (ASP.NET Core, C#, SQLite)
+- Developed a full-stack CRM web application with role-based login,
+  dashboards, and a REST API for customers, leads and opportunities.
+- Implemented server-side validation, audit logging and CSV report
+  exports; deployed the project with full documentation on GitHub.
+
+Protein GO-Term Predictor (Python, Machine Learning)
+- Built a multi-label classifier that predicts Gene Ontology terms for
+  protein sequences from engineered sequence features.
+- Applied feature engineering and threshold tuning to improve F1 score.
+
+ACHIEVEMENTS
+- Completed the NPTEL Cloud Computing course and certification exam.
+- Active on GitHub with documented, runnable project repositories.
