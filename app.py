@@ -187,7 +187,7 @@ def main():
             "PDF/TXT file.\n"
             "2. **Match score** — resume and job description are converted "
             "to TF-IDF vectors and compared with cosine similarity.\n"
-            "3. **Skill extraction** — both texts are scanned for 100+ "
+            "3. **Skill extraction** — both texts are scanned for 72 "
             "known tech skills; the JD's skills are the requirement list, "
             "and the resume is checked against it.\n"
             "4. **Keyword & section checks** — the JD's top keywords and "

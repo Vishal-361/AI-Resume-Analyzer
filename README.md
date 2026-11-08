@@ -6,7 +6,7 @@ An NLP-based tool that compares a resume against a job description and surfaces 
 
 - **Resume upload** — PDF or TXT; the text is extracted automatically (PDFs via `pypdf`).
 - **Match score** — TF-IDF + cosine similarity between the resume and the job description, shown as a 0–100 score.
-- **Skill-gap analysis** — both texts are scanned against a built-in database of 100+ tech skills (languages, frameworks, databases, tools, concepts). Skills the job asks for are reported as *matched* or *missing*, with a coverage percentage.
+- **Skill-gap analysis** — both texts are scanned against a built-in database of 72 tech skills (languages, frameworks, databases, tools, concepts). Skills the job asks for are reported as *matched* or *missing*, with a coverage percentage.
 - **Keyword overlap** — the job description's most important keywords are checked against the resume, the way recruiters and ATS filters scan.
 - **Resume checklist** — verifies email, phone number, and the presence of education, experience, projects, skills and summary sections.
 - **Actionable suggestions** — every gap found becomes a specific editing suggestion, not just a number.
